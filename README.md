@@ -6,6 +6,8 @@
 
 - MarkDown guide: (https://guides.github.com/features/mastering-markdown/
 
+- Digital Handbook is located here: https://kind-forest-0744b5603.3.azurestaticapps.net/
+
 <!---
 frodeefteland/frodeefteland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
