@@ -2,14 +2,16 @@
 - 👀 I’m interested in collaboration across Aker BP
 - 🌱 I’m currently learning how to write this readme. 
 - 💞️ I’m looking to collaborate on Data Architecture & Modelling in Aker BP. 
-- 📫 How to reach me: search me up on Teams. 
+- 📫 How to reach me: search me up on Teams.
+
+- MarkDown guide: (https://guides.github.com/features/mastering-markdown/
 
 <!---
 frodeefteland/frodeefteland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Data Architecture Guidelines: [Word format guideline in Teams](https://akerbp.sharepoint.com/:w:/r/sites/abp-team-365/Shared%20Documents/2.01%20-%20GOVERNANCE%20AND%20ARCHITECTURE%20%F0%9F%A7%A9/1.01.03.%20Data%20Governance/78-000623%20Information%20Management%20Specification/Data%20Management%20Spec%20-%20Redesign%206.2023/Guideline%20Data%20Architecture.docx?d=w6f1b054f86884d898c3ee73192115ac8&csf=1&web=1&e=VJzXNd)
+# Data Architecture Guidelines: [Word format guideline in Aker BP sharepoint](https://akerbp.sharepoint.com/:w:/r/sites/abp-team-365/Shared%20Documents/2.01%20-%20GOVERNANCE%20AND%20ARCHITECTURE%20%F0%9F%A7%A9/1.01.03.%20Data%20Governance/78-000623%20Information%20Management%20Specification/Data%20Management%20Spec%20-%20Redesign%206.2023/Guideline%20Data%20Architecture.docx?d=w6f1b054f86884d898c3ee73192115ac8&csf=1&web=1&e=VJzXNd)
 
 
 **Purpose:** The goal of this document is to describe a holistic methodology for creating and managing data architecture in Aker BP.  
