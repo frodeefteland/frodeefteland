@@ -8,7 +8,7 @@
 
 - Digital Handbook is located here: https://kind-forest-0744b5603.3.azurestaticapps.net/
 
-  [TOC]
+
 
 <!---
 frodeefteland/frodeefteland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
