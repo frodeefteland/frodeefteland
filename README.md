@@ -57,27 +57,20 @@ The purpose of data architecture is to provide a structured approach to managing
 ### 2.2 Significance of Data Architecture
 Data Architecture plays a vital role in enabling Aker BP to effectively manage and leverage its data assets. It promotes data consistency, integrity, security, and usability, ultimately supporting better decision-making, operational efficiency, and competitive advantage within the enterprise architecture context.
 
-Business Process Optimization
-- By understanding how data flows through our systems, we can identify areas for improvement and automation. This leads to more efficient operations and better utilization of our resources.
+- **Business Process Optimization** By understanding how data flows through our systems, we can identify areas for improvement and automation. This leads to more efficient operations and better utilization of our resources.
 
-Data Integration and Consistency
-- Ensures that our data is seamlessly integrated across different systems and applications. This means we can have a unified view of our data, avoiding duplication and ensuring consistency in how we use and share information.
-- Reduces costs associated with data duplication, data errors, and manual data reconciliation.
+- **Data Integration and Consistency** Ensures that our data is seamlessly integrated across different systems and applications. This means we can have a unified view of our data, avoiding duplication and ensuring consistency in how we use and share information.
+Reduces costs associated with data duplication, data errors, and manual data reconciliation.
 
-Data Quality and Integrity
-- Helps us maintain the quality and integrity of our data. By setting standards and guidelines, we can ensure our data is accurate, complete, and reliable. This is crucial for making informed decisions and avoiding mistakes based on incorrect or incomplete information.
+- **Data Quality and Integrity** Helps us maintain the quality and integrity of our data. By setting standards and guidelines, we can ensure our data is accurate, complete, and reliable. This is crucial for making informed decisions and avoiding mistakes based on incorrect or incomplete information.
 
-Data Security and Privacy
-- Addresses the security and privacy of our data. It establishes measures to protect sensitive information, such as customer data or proprietary data. This ensures we comply with regulations and safeguards our reputation and the trust of our stakeholders.
+- **Data Security and Privacy** Addresses the security and privacy of our data. It establishes measures to protect sensitive information, such as customer data or proprietary data. This ensures we comply with regulations and safeguards our reputation and the trust of our stakeholders.
 
-Decision-making and Analytics
-- Provides a standardized and integrated view of our data. This means we can access and analyze relevant data easily, enabling us to make informed decisions based on accurate information. It also supports our efforts in leveraging data analytics to gain valuable insights for strategic planning and operational improvements.
+- **Decision-making and Analytics** Provides a standardized and integrated view of our data. This means we can access and analyze relevant data easily, enabling us to make informed decisions based on accurate information. It also supports our efforts in leveraging data analytics to gain valuable insights for strategic planning and operational improvements.
 
-Scalability and Adaptability
-- A well-designed data architecture allows us to scale our data infrastructure as our organization grows. It also ensures we can adapt to new technologies and changing business needs. This flexibility is crucial in a rapidly evolving digital landscape.
+- **Scalability and Adaptability** A well-designed data architecture allows us to scale our data infrastructure as our organization grows. It also ensures we can adapt to new technologies and changing business needs. This flexibility is crucial in a rapidly evolving digital landscape.
 
-Alignment with Business Strategy
-- Ensures our data assets align with our business strategy. It helps us identify critical data elements and define ownership and accountability. This ensures that our data supports our strategic goals and helps us stay ahead of the competition.
+- **Alignment with Business Strategy** Ensures our data assets align with our business strategy. It helps us identify critical data elements and define ownership and accountability. This ensures that our data supports our strategic goals and helps us stay ahead of the competition.
 
  ## 2.2 Benefits of TOGAF Standardization
 
