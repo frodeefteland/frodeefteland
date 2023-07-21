@@ -38,6 +38,8 @@ This comprehensive guide aims to support our enterprise in implementing an effic
 
 The purpose of data architecture is to provide a structured approach to managing and organizing Aker BP's data assets. It involves designing and implementing a blueprint that outlines how data will be collected, stored, integrated, and used to support business operations, decision-making, and strategic initiatives.
 
+![Enterprise Architecture stack](EnterpriseArchitectureStack.jpg)
+
 #### Analogies to Data Architecture
 
 1. **Library Catalog System**: Imagine a data architecture as a library catalog system. Each book (data) has a specific place on the shelf (data storage), categorized and organized based on different criteria (data structures). The catalog system (data architecture) helps you quickly find the book you need (data access), ensuring a smooth and efficient library experience.
@@ -100,5 +102,7 @@ The benefits of TOGAF Standard:
 - Offers reference architecture, risk principles, and architecture toolbox.
 
 - Known for its frequent updates and reflects the latest advancements in the industry, whereas the DAMA Body of Knowledge has relatively slower updates.
+
+![TOGAF architecture repository structure](https://github.com/frodeefteland/frodeefteland/blob/45857b15e56ecc05339c8d96fea99c3445cdc829/TOGAF%20architecture%20repository%20structure.png)
 
 [1]: [The Open Group](https://www.opengroup.org/)  
